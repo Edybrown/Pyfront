@@ -11,7 +11,7 @@
 # but WITHOUT ANY WARRANTY. See the COPYING file for more details.
 
 
-# frontpy/dom.py
+# pyfront/dom.py
 # Simple global DOM manager and generator of functions by id (accumulative).
 
 from typing import Dict, Optional

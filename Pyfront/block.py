@@ -9,7 +9,7 @@
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY. See the COPYING file for more details.
 
-# frontpy/block.py
+# pyfront/block.py
 
 from .content import ContentFactory
 from .dom import DOM

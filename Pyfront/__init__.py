@@ -1,4 +1,4 @@
-# frontpy/__init__.py
+# pyfront/__init__.py
 
 # ----------------------------------------------------------------------
 # Package Configuration

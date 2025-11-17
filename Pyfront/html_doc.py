@@ -11,7 +11,7 @@
 # but WITHOUT ANY WARRANTY. See the COPYING file for more details.
 
 
-# frontpy/html_doc.py
+# pyfront/html_doc.py
 
 from .dom import DOM
 from .css import CSSRegistry

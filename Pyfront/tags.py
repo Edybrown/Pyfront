@@ -1,4 +1,4 @@
-# [your_file].py
+
 
 # Copyright (C) [2025] Eduardo Antonio Ferrera Rodríguez
 # 
@@ -11,7 +11,7 @@
 # but WITHOUT ANY WARRANTY. See the COPYING file for more details.
 
 
-# frontpy/tags.py
+# pyfront/tags.py
 
 from .block import Block
 

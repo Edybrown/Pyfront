@@ -10,7 +10,7 @@
 # but WITHOUT ANY WARRANTY. See the COPYING file for more details.
 
 
-# frontpy/css.py
+# pyfront/css.py
 from pathlib import Path
 
 class CSSRegistry:
